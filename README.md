@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikmavr
-- 👀 I’m interested in programming, Lego WeDo, Mindstorms, Micro:bit, Arduino, robotics
-- 🌱 I’m currently learning micro:bit
+- 👀 I’m interested in programming, Lego WeDo, Mindstorms, Spike PRime, Micro:bit, Arduino and robotics in general.
+- 🌱 I’m currently learning micro:bit - python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
